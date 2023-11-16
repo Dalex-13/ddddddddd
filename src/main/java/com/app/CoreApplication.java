@@ -17,6 +17,7 @@ public class CoreApplication {
 		Motor m = contex.getBean(Motor.class);
 
 		System.out.println(m);
+		System.out.println("prueba");
 
 	}
 }
